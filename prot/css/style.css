@@ -6,15 +6,19 @@
 body {
 
 }
-
+.content {
+width:614px;
+height: 250px;
+padding: 2px;
+margin: 0 auto;
+background: #df97c7;
+}
 .aside {
   background: #e4e4e4;
 }
 .main {
     width: 664px;
 	background: #d2ff53;
-}
-.m {
 }
 .footer {
 height: 20px;
@@ -24,33 +28,18 @@ background: #df97c7;
   margin: 0;
   padding: 0;
 }
-#navigation {
-    /* margin: 3% 0 5% 0; */
-    padding: 2px;
-    margin-top: 1%;
-    margin-right: auto;
-    margin-left: 24%;
-}
-
-#navigation a {
-    display: block;
-    background: #ff3c3c;
-
-    width: 90px;
-
-}
 
 a#nav-home {
-	background: #f4242;
+	background: #2a61dc;
 }
 a#nav-about {
-	background: #ffff;
+	    background: #df97c7;
 }
 a#nav-contact {
 	background: #ffdc31;
 }
 a#nav-faq {
-	background: #ffd42;
+	background: #654d4d;
 }
 .block {
 	background: #ffdc31;
@@ -78,7 +67,6 @@ a#nav-faq {
 
 #navigation a {
 	display: block;
-	color: #fff;
 	text-decoration: none;
 	text-align: center;
 	padding-top: 82px;
