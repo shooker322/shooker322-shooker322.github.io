@@ -50,8 +50,12 @@ a#nav-faq {
 	background: #ffdc31;
 	
 }
-
-
+.sidebar li {
+    padding: 2px;
+    border: 1px solid black;
+    width: auto;
+    background: #fff;
+}
 .page {
     margin: auto;
     background: #7d7d7d;
