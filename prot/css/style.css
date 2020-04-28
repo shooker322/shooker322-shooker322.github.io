@@ -16,6 +16,11 @@ background: #df97c7;
 .aside {
   background: #e4e4e4;
 }
+.sidebar {
+  height: 300px;
+  margin: auto;
+  background: #8c8f96;
+}
 .main {
     width: 664px;
 	background: #d2ff53;
@@ -45,9 +50,13 @@ a#nav-faq {
 	background: #ffdc31;
 	
 }
+
+
 .page {
-  max-width: 1980px;
-  margin: auto;
+    margin: auto;
+    background: #7d7d7d;
+    padding: 10px;
+	margin: 0;
 }
  
 .grid-container {
@@ -63,6 +72,9 @@ a#nav-faq {
     margin-top: 1%;
     margin-right: auto;
     margin-left: 24%;
+	width: 500px;
+	height: 400px;
+	background: #6a516f;
 }
 
 #navigation a {
