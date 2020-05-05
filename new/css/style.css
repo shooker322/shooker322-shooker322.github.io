@@ -228,24 +228,6 @@ a#nav-faq {
 	text-decoration: none;
 }
 
-.quickjump {
-	padding: 0 0 0 60px;
-	font-size: 1.2em;
-	font-weight: bold;
-	line-height: 18px;
-	color: #fff;
-}
-
-.postjumper {
-	float: left;
-	padding: 0 20px 0 0;  
-}
-
-.postjumper a {
-	float: left;
-	padding: 0 20px 0 0;
-	color: #fff
-}
 #sidebar {
 	margin: 0;
     width: 257px;
