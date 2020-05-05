@@ -285,10 +285,6 @@ a#nav-faq {
 }
 #searchform input {
 	float: left;
-	border: none;
-	color: #ddd;
-	margin: 0;
-	padding: 0;
 }
 #searchform .searchtext {
 	margin: 4px 2px 0 19px;
