@@ -442,6 +442,10 @@ a#nav-faq {
 	margin: 0;
 	padding: 0;
 }
+ .grid-container {
+	height: auto;
+	grid-template-columns: 1fr;
+  }
 	.main {
 	width: 614px;
 	margin: 0 auto;
